@@ -1,0 +1,1 @@
+pyuic6 -o audiorecorder.py audiorecorder.ui

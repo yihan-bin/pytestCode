@@ -1,0 +1,10 @@
+<form method="post" enctype="multipart/form-data">##高送后台表单里面有文件
+    {% csrf_token %}
+    <input type="text" name="username">
+    <input type="password" name="password">
+    <input type="checkbox" value="remember me">
+     <input type="file" value="f_test">
+    <input type="submit" value="登录">
+
+
+</form>

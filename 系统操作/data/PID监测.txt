@@ -1,0 +1,680 @@
+PID     	进程名                                     	工作目录的绝对路径
+
+0       	System Idle Process                     	未找到该进程工作目录的绝对路径
+4       	System                                  	
+68      	lsass.exe                               	C:\Windows\System32\lsass.exe
+96      	Registry                                	Registry
+200     	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+236     	ServiceHub.ThreadedWaitDialog.exe       	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
+588     	smss.exe                                	C:\Windows\System32\smss.exe
+840     	csrss.exe                               	C:\Windows\System32\csrss.exe
+948     	wininit.exe                             	C:\Windows\System32\wininit.exe
+956     	csrss.exe                               	C:\Windows\System32\csrss.exe
+1020    	services.exe                            	C:\Windows\System32\services.exe
+1040    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1056    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1060    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1068    	WUDFHost.exe                            	C:\Windows\System32\WUDFHost.exe
+1096    	fontdrvhost.exe                         	C:\Windows\System32\fontdrvhost.exe
+1196    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1204    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1256    	WUDFHost.exe                            	C:\Windows\System32\WUDFHost.exe
+1296    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1316    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1348    	WUDFHost.exe                            	C:\Windows\System32\WUDFHost.exe
+1448    	winlogon.exe                            	C:\Windows\System32\winlogon.exe
+1508    	fontdrvhost.exe                         	C:\Windows\System32\fontdrvhost.exe
+1580    	dwm.exe                                 	C:\Windows\System32\dwm.exe
+1636    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1676    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1704    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1716    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1804    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1812    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1996    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2020    	IntelCpHDCPSvc.exe                      	C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_18893dec345402c3\IntelCpHDCPSvc.exe
+2076    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2088    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2172    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2208    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2220    	IntelCpHeciSvc.exe                      	C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_18893dec345402c3\IntelCpHeciSvc.exe
+2292    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2320    	HipsDaemon.exe                          	D:\Program Files (x86)\Huorong\Sysdiag\bin\HipsDaemon.exe
+2360    	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+2364    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2376    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2492    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2504    	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+2548    	dasHost.exe                             	C:\Windows\System32\dasHost.exe
+2608    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2640    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2668    	WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe	C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+2780    	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+2808    	Haozip_2345Upgrade.exe                  	D:\2345Soft\HaoZip\Haozip_2345Upgrade.exe
+2868    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2880    	GatewaySysTray.exe                      	D:\Inovance Control\AM600\GatewayPLC\GatewaySysTray.exe
+2988    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3084    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3164    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3208    	ServiceHub.SettingsHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
+3372    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3424    	TcSysUI.exe                             	C:\TwinCAT\3.1\System\TcSysUI.exe
+3440    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3512    	spacedeskService.exe                    	C:\Windows\System32\spacedeskService.exe
+3520    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3660    	acrotray.exe                            	D:\Adobe\Acrobat 8.0\Acrobat\acrotray.exe
+3676    	NVDisplay.Container.exe                 	C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_653fb989e351214a\Display.NvContainer\NVDisplay.Container.exe
+3732    	conhost.exe                             	C:\Windows\System32\conhost.exe
+3808    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3816    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3824    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3832    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3876    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3884    	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+3892    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3924    	MemCompression                          	MemCompression
+3964    	NVDisplay.Container.exe                 	C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_653fb989e351214a\Display.NvContainer\NVDisplay.Container.exe
+3972    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3992    	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+4000    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4012    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4032    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4076    	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+4160    	python.exe                              	D:\python3.8\python.exe
+4252    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4264    	RtkAudioService64.exe                   	C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe
+4320    	Serv_SpUsb.exe                          	C:\Windows\SysWOW64\Serv_SpUsb.exe
+4348    	ctfmon.exe                              	C:\Windows\System32\ctfmon.exe
+4360    	WmiPrvSE.exe                            	C:\Windows\System32\wbem\WmiPrvSE.exe
+4456    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4464    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4500    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4712    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4752    	wsctrlsvc.exe                           	D:\Program Files (x86)\Huorong\Sysdiag\bin\wsctrlsvc.exe
+4780    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4804    	RAVBg64.exe                             	C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+4824    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4888    	spoolsv.exe                             	C:\Windows\System32\spoolsv.exe
+5084    	ChsIME.exe                              	C:\Windows\System32\InputMethod\CHS\ChsIME.exe
+5140    	Microsoft.Photos.exe                    	C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2022.30070.26007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+5148    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5152    	ServiceHub.SettingsHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
+5184    	mysqld.exe                              	D:\MariaDB 10.3\bin\mysqld.exe
+5224    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5332    	NetmanageServerService.exe              	C:\Program Files (x86)\Common Files\Schneider Electric Shared\NetmanageServer\4.1\NetmanageServerService.exe
+5376    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5384    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5428    	SystemSettings.exe                      	C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+5436    	conhost.exe                             	C:\Windows\System32\conhost.exe
+5468    	TcNcI.exe                               	C:\TwinCAT\3.1\Components\Mc\Nci\TcNcI.exe
+5512    	mDNSResponder.exe                       	C:\Program Files\Bonjour\mDNSResponder.exe
+5520    	CodeMeter.exe                           	C:\Program Files (x86)\CodeMeter\Runtime\bin\CodeMeter.exe
+5556    	CommonService.exe                       	C:\Program Files\EsafeNet\Cobra DocGuard Client\CommonService.exe
+5564    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5572    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5588    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5608    	Snipaste.exe                            	G:\桌面\right\HarmonyOS\day03\资料\Snipaste.exe
+5612    	GatewayService.exe                      	D:\Schneider Electric\SoMachine Software\Tools\Gateway\GatewayService.exe
+5620    	ServiceControl.exe                      	D:\Inovance Control\AM600\GatewayPLC\ServiceControl.exe
+5636    	FNPLicensingService.exe                 	C:\Program Files (x86)\Common Files\Macrovision Shared\FlexNet Publisher\FNPLicensingService.exe
+5644    	FNPLicensingService64.exe               	C:\Program Files\Common Files\Macrovision Shared\FlexNet Publisher\FNPLicensingService64.exe
+5652    	esif_uf.exe                             	C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_82b77f8c4618e2d0\esif_uf.exe
+5668    	diskSnService.exe                       	C:\Program Files (x86)\Common Files\GstarSoft\diskSnService.exe
+5684    	SchneiderElectric.GatewayServiceHosting.exe	D:\Schneider Electric\SoMachine Software\Tools\Gateway\SchneiderElectric.GatewayServiceHosting.exe
+5700    	EwServer.exe                            	D:\SOLIDWORKS Corp\SOLIDWORKS Electrical\server\EwServer.exe
+5720    	HiviewService.exe                       	C:\Program Files\Huawei\Hiview\HiviewService.exe
+5728    	CdgTwin32.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin32.exe
+5732    	LockApp.exe                             	C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+5744    	HistorySvr.exe                          	D:\kingview\HistorySvr.exe
+5764    	OneApp.IGCC.WinService.exe              	C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_54b736e5be5b50b2\OneApp.IGCC.WinService.exe
+5780    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5804    	Kingdee.BOS.DeskClient.WinService.exe   	C:\Program Files (x86)\Kingdee\K3Cloud\DeskClient\WinService\Kingdee.BOS.DeskClient.WinService.exe
+5840    	LCD_Service.exe                         	C:\Program Files\Huawei\HwLcdEnhancement\LCD_Service.exe
+5848    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5856    	lkads.exe                               	C:\Windows\SysWOW64\lkads.exe
+5884    	LogCenterSer.exe                        	C:\Inovance Control\AutoShop\LogCenterSer.exe
+5900    	MateBookService.exe                     	C:\Program Files\Huawei\PCManager\MateBookService.exe
+5928    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5948    	sqlservr.exe                            	C:\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Binn\sqlservr.exe
+6020    	NA_Service.exe                          	C:\Windows\System32\NA_Service.exe
+6108    	nisvcloc.exe                            	D:\Multisim\Shared\nisvcloc\nisvcloc.exe
+6116    	svchost.exe                             	C:\Windows\System32\svchost.exe
+6124    	niauth_daemon.exe                       	D:\Multisim\Shared\niauth\niauth_daemon.exe
+6152    	SutService.exe                          	C:\Program Files (x86)\Schneider Electric\Software Update\SutService.exe
+6160    	CdgTwin64.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin64.exe
+6168    	spnsrvnt.exe                            	C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel Protection Server\WinNT\spnsrvnt.exe
+6176    	sntlkeyssrvr.exe                        	C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel Keys Server\sntlkeyssrvr.exe
+6184    	sntlsrtsrvr.exe                         	C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel Security Runtime\sntlsrtsrvr.exe
+6192    	sqlwriter.exe                           	C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
+6208    	RstMwService.exe                        	C:\Windows\System32\DriverStore\FileRepository\iaahcic.inf_amd64_c52b34f1b30918c5\RstMwService.exe
+6216    	Omron.Cxmw.Modules.AutoIP.AutoIPService.exe	C:\Windows\SysWOW64\Omron\autoip\Omron.Cxmw.Modules.AutoIP.AutoIPService.exe
+6224    	Omron.Cxmw.Modules.Ppp.PppService.exe   	C:\Windows\SysWOW64\Omron\PppService\Omron.Cxmw.Modules.Ppp.PppService.exe
+6232    	Omron.Cxmw.Modules.Serial.SerialService.exe	C:\Windows\SysWOW64\Omron\SerialService\Omron.Cxmw.Modules.Serial.SerialService.exe
+6240    	sqlbrowser.exe                          	C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe
+6304    	CdgTwin64.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin64.exe
+6312    	CdgTwin32.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin32.exe
+6436    	FileExtensionCop.exe                    	D:\Schneider Electric\SoMachine Software\Tools\Launcher\FileExtensionCop.exe
+6452    	ServiceHub.IdentityHost.exe             	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+6464    	SunloginClient.exe                      	D:\SunLogin\SunloginClient\SunloginClient.exe
+6540    	svchost.exe                             	C:\Windows\System32\svchost.exe
+6580    	lktsrv.exe                              	C:\Windows\SysWOW64\lktsrv.exe
+6588    	lkcitdl.exe                             	C:\Windows\SysWOW64\lkcitdl.exe
+6752    	ModbusDrvSys.exe                        	C:\Windows\System32\ModbusDrvSys.exe
+6784    	conhost.exe                             	C:\Windows\System32\conhost.exe
+6952    	nimdnsResponder.exe                     	D:\Multisim\Shared\mDNS Responder\nimdnsResponder.exe
+6980    	nidmsrv.exe                             	D:\Multisim\Shared\Security\nidmsrv.exe
+7028    	WmiPrvSE.exe                            	C:\Windows\System32\wbem\WmiPrvSE.exe
+7084    	WmiPrvSE.exe                            	C:\Windows\SysWOW64\wbem\WmiPrvSE.exe
+7096    	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+7180    	devenv.exe                              	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+7340    	ModbusDrv.exe                           	C:\Windows\System32\ModbusDrv.exe
+7660    	Microsoft.ServiceHub.Controller.exe     	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+8008    	spacedeskServiceTray.exe                	C:\Windows\System32\spacedeskServiceTray.exe
+8228    	SystemWebServer.exe                     	D:\Multisim\Shared\NI WebServer\SystemWebServer.exe
+8304    	svchost.exe                             	C:\Windows\System32\svchost.exe
+8928    	MBAMessageCenter.exe                    	C:\Program Files\Huawei\PCManager\MBAMessageCenter.exe
+8936    	TCATSysSrv.exe                          	C:\TwinCAT\3.1\System\TCATSysSrv.exe
+8964    	TabTip.exe                              	C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+9076    	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+9420    	PD-NetmanageServer.exe                  	C:\Program Files (x86)\Common Files\Schneider Electric Shared\NetmanageServer\4.3\PD-NetmanageServer.exe
+9516    	NIWebServiceContainer.exe               	D:\Multisim\Shared\NI WebServer\NIWebServiceContainer.exe
+9568    	ApplicationWebServer.exe                	D:\Multisim\Shared\NI WebServer\ApplicationWebServer.exe
+9684    	svchost.exe                             	C:\Windows\System32\svchost.exe
+9700    	usysdiag.exe                            	D:\Program Files (x86)\Huorong\Sysdiag\bin\usysdiag.exe
+9808    	svchost.exe                             	C:\Windows\System32\svchost.exe
+9888    	kms-renewal.exe                         	C:\Windows\System32\kms-renewal.exe
+9896    	vmware-usbarbitrator64.exe              	C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+10028   	UsbConnect.exe                          	C:\Windows\System32\UsbConnect.exe
+10032   	vmnat.exe                               	C:\Windows\SysWOW64\vmnat.exe
+10044   	watchctrl.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\watchctrl.exe
+10064   	vmware-authd.exe                        	D:\VMware\vmware-authd.exe
+10084   	vmnetdhcp.exe                           	C:\Windows\SysWOW64\vmnetdhcp.exe
+10124   	SunloginClient.exe                      	D:\SunLogin\SunloginClient\SunloginClient.exe
+10132   	NIWebServiceContainer.exe               	D:\Multisim\Shared\NI WebServer\NIWebServiceContainer.exe
+10164   	SWVisualize.Queue.Server.exe            	D:\SOLIDWORKS Corp\SOLIDWORKS Visualize\SWVisualize.Queue.Server.exe
+10196   	TcEventLogger.exe                       	C:\TwinCAT\3.1\Components\TcEventLogger\TcEventLogger.exe
+10212   	SWVisualize.BoostService.exe            	D:\SOLIDWORKS Corp\SOLIDWORKS Visualize Boost\SWVisualize.BoostService.exe
+10228   	unsecapp.exe                            	C:\Windows\System32\wbem\unsecapp.exe
+10264   	WifiAutoInstall.exe                     	C:\Program Files (x86)\FAST\FW150US（免驱版）2.0\DriverFiles\WifiAutoInstall.exe
+10272   	XBTZG935svr.exe                         	C:\Program Files (x86)\Schneider Electric\Drivers\XBTZG935\XBTZG935svr.exe
+10280   	svchost.exe                             	C:\Windows\System32\svchost.exe
+10296   	svchost.exe                             	C:\Windows\SysWOW64\svchost.exe
+10304   	sihost.exe                              	C:\Windows\System32\sihost.exe
+10340   	svchost.exe                             	C:\Windows\System32\svchost.exe
+10500   	ServiceHub.RoslynCodeAnalysisService.exe	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+10564   	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+10596   	UsbConsole.exe                          	C:\Windows\System32\UsbConsole.exe
+10688   	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+10776   	conhost.exe                             	C:\Windows\System32\conhost.exe
+10892   	vsls-agent.exe                          	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\LiveShare\Agent\vsls-agent.exe
+10968   	svchost.exe                             	C:\Windows\System32\svchost.exe
+11216   	SearchProtocolHost.exe                  	C:\Windows\System32\SearchProtocolHost.exe
+11504   	winrdlv3.exe                            	C:\Windows\System32\winrdlv3.exe
+11628   	ServiceHub.SettingsHost.exe             	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe
+11744   	taskhostw.exe                           	C:\Windows\System32\taskhostw.exe
+11808   	CXOneInstChecker.exe                    	C:\Program Files (x86)\OMRON\CXOneInstChecker.exe
+11840   	PopBlock.exe                            	D:\Program Files (x86)\Huorong\Sysdiag\bin\PopBlock.exe
+11876   	ServiceHub.RoslynCodeAnalysisService.exe	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+11908   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+11956   	svchost.exe                             	C:\Windows\System32\svchost.exe
+11968   	explorer.exe                            	C:\Windows\explorer.exe
+12004   	vmware-hostd.exe                        	D:\VMware\vmware-hostd.exe
+12096   	svchost.exe                             	C:\Windows\System32\svchost.exe
+12128   	svchost.exe                             	C:\Windows\System32\svchost.exe
+12132   	svchost.exe                             	C:\Windows\System32\svchost.exe
+12276   	TC3ScopeServer.exe                      	C:\TwinCAT\Functions\TF3300-Scope-Server\TC3ScopeServer.exe
+12356   	ShellExperienceHost.exe                 	C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+12564   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+12696   	PerfWatson2.exe                         	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe
+12752   	ServiceHub.Host.CLR.x64.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
+12804   	conhost.exe                             	C:\Windows\System32\conhost.exe
+12872   	SgrmBroker.exe                          	C:\Windows\System32\SgrmBroker.exe
+12928   	winrdlv3.exe                            	C:\Windows\System32\winrdlv3.exe
+12976   	devenv.exe                              	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+13016   	SettingSyncHost.exe                     	C:\Windows\System32\SettingSyncHost.exe
+13064   	ServiceHub.IndexingService.exe          	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.IndexingService.exe
+13068   	vmware-tray.exe                         	D:\VMware\vmware-tray.exe
+13432   	svchost.exe                             	C:\Windows\System32\svchost.exe
+13536   	DFSSearchService.exe                    	C:\Program Files\Huawei\PCManager\DFSSearchService.exe
+13572   	ServiceHub.IdentityHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
+13644   	StartMenuExperienceHost.exe             	C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+13940   	Microsoft.ServiceHub.Controller.exe     	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+13984   	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+14272   	nierserver.exe                          	D:\Multisim\Shared\NI Error Reporting\nierserver.exe
+14504   	SearchIndexer.exe                       	C:\Windows\System32\SearchIndexer.exe
+14668   	WXWork.exe                              	D:\Program Files (x86)\WXWork\WXWork.exe
+14828   	SecurityHealthHost.exe                  	C:\Windows\System32\SecurityHealthHost.exe
+15008   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+15016   	CODESYSControlSysTray.exe               	D:\Inovance Control\AM600\GatewayPLC\CODESYSControlSysTray.exe
+15280   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+15420   	SchneiderElectric.SoMachineBasic.GatewayWindowsService.exe	C:\Program Files (x86)\Schneider Electric\SoMachine Basic\SchneiderElectric.SoMachineBasic.GatewayWindowsService.exe
+15464   	SearchUI.exe                            	C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+15488   	ServiceHub.Host.netfx.x86.exe           	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+15960   	PerfWatson2.exe                         	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe
+16092   	svchost.exe                             	C:\Windows\System32\svchost.exe
+16124   	vsls-agent.exe                          	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\LiveShare\Agent\vsls-agent.exe
+16196   	ServiceHub.ThreadedWaitDialog.exe       	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
+16220   	Microsoft.ServiceHub.Controller.exe     	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+16288   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+16392   	ServiceHub.VSDetouredHost.exe           	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe
+16472   	CDGRegedit.exe                          	C:\Program Files\EsafeNet\Cobra DocGuard Client\CDGRegedit.exe
+16520   	Everything.exe                          	D:\Everything\Everything.exe
+16556   	conhost.exe                             	C:\Windows\System32\conhost.exe
+16672   	IGCCTray.exe                            	C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3408.0_x64__8j3eq9eme6ctt\GCP.ML.BackgroundSysTray\IGCCTray.exe
+16696   	Everything.exe                          	D:\Everything\Everything.exe
+16800   	GoogleCrashHandler.exe                  	C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler.exe
+16956   	CodeMeterCC.exe                         	C:\Program Files (x86)\CodeMeter\Runtime\bin\CodeMeterCC.exe
+17096   	HipsTray.exe                            	D:\Program Files (x86)\Huorong\Sysdiag\bin\HipsTray.exe
+17128   	TaskbarTools.exe                        	G:\透明任务栏\TaskbarTools\TaskbarTools.exe
+17172   	CastSrv.exe                             	C:\Windows\System32\CastSrv.exe
+17268   	SunloginClient.exe                      	D:\SunLogin\SunloginClient\SunloginClient.exe
+17276   	ServiceHub.IdentityHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
+17380   	GoogleCrashHandler64.exe                	C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler64.exe
+17440   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+17444   	Calculator.exe                          	C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe
+17508   	svchost.exe                             	C:\Windows\System32\svchost.exe
+17652   	ApplicationFrameHost.exe                	C:\Windows\System32\ApplicationFrameHost.exe
+17736   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+17748   	dllhost.exe                             	C:\Windows\System32\dllhost.exe
+17788   	ServiceHub.VSDetouredHost.exe           	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe
+17800   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+17908   	svchost.exe                             	C:\Windows\System32\svchost.exe
+17940   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+18044   	SecurityHealthService.exe               	C:\Windows\System32\SecurityHealthService.exe
+18084   	IGCC.exe                                	C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3408.0_x64__8j3eq9eme6ctt\IGCC.exe
+18264   	svchost.exe                             	C:\Windows\System32\svchost.exe
+18280   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+18484   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+18556   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+18600   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+18740   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+18832   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+18916   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+19296   	scclient.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\scclient.exe
+19432   	ServiceHub.Host.CLR.x64.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
+19648   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+19724   	WXDrive.exe                             	D:\Program Files (x86)\WXWork\WXDrive\WXDrive.exe
+19968   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+20028   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+20292   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+20412   	DocWaterMark.exe                        	C:\Windows\SysWOW64\Ocular3Path\SCClient\DocWaterMark.exe
+20432   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+20464   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+21240   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+21252   	python.exe                              	D:\python3.8\python.exe
+21440   	ServiceHub.IntellicodeModelService.exe  	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+21872   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+21912   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+22076   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+22340   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+22620   	pycharm64.exe                           	D:\JetBrains\PyCharm Community Edition 2021.2\bin\pycharm64.exe
+22904   	svchost.exe                             	C:\Windows\System32\svchost.exe
+23064   	Taskmgr.exe                             	C:\Windows\System32\Taskmgr.exe
+23336   	devenv.exe                              	D:\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+23516   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+23540   	svchost.exe                             	C:\Windows\System32\svchost.exe
+23572   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+23808   	svchost.exe                             	C:\Windows\System32\svchost.exe
+24316   	svchost.exe                             	C:\Windows\System32\svchost.exe
+24564   	ServiceHub.Host.dotnet.x64.exe          	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.Host.dotnet.x64.exe
+24872   	svchost.exe                             	C:\Windows\System32\svchost.exe
+25168   	PerfWatson2.exe                         	D:\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+25372   	svchost.exe                             	C:\Windows\System32\svchost.exe
+25468   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+25544   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+25624   	ServiceHub.VSDetouredHost.exe           	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe
+25844   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+26280   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+26616   	ServiceHub.ThreadedWaitDialog.exe       	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe
+27180   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+28180   	SearchFilterHost.exe                    	C:\Windows\System32\SearchFilterHost.exe
+28252   	fsnotifier.exe                          	D:\JetBrains\PyCharm Community Edition 2021.2\bin\fsnotifier.exe
+28260   	conhost.exe                             	C:\Windows\System32\conhost.exe
+28812   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+28972   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+29056   	MessageCenterUI.exe                     	C:\Program Files\Huawei\PCManager\MessageCenterUI.exe
+29108   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+29396   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+
+2023-01-11 14:53:00
+------------------------------------------------------------------------------------------------------------------------------
+
+PID     	进程名                                     	工作目录的绝对路径
+
+0       	System Idle Process                     	未找到该进程工作目录的绝对路径
+4       	System                                  	
+68      	lsass.exe                               	C:\Windows\System32\lsass.exe
+96      	Registry                                	Registry
+200     	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+236     	ServiceHub.ThreadedWaitDialog.exe       	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
+588     	smss.exe                                	C:\Windows\System32\smss.exe
+840     	csrss.exe                               	C:\Windows\System32\csrss.exe
+948     	wininit.exe                             	C:\Windows\System32\wininit.exe
+956     	csrss.exe                               	C:\Windows\System32\csrss.exe
+1020    	services.exe                            	C:\Windows\System32\services.exe
+1040    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1056    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1060    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1068    	WUDFHost.exe                            	C:\Windows\System32\WUDFHost.exe
+1096    	fontdrvhost.exe                         	C:\Windows\System32\fontdrvhost.exe
+1196    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1204    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1256    	WUDFHost.exe                            	C:\Windows\System32\WUDFHost.exe
+1296    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1316    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1348    	WUDFHost.exe                            	C:\Windows\System32\WUDFHost.exe
+1448    	winlogon.exe                            	C:\Windows\System32\winlogon.exe
+1508    	fontdrvhost.exe                         	C:\Windows\System32\fontdrvhost.exe
+1580    	dwm.exe                                 	C:\Windows\System32\dwm.exe
+1636    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1676    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1704    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1716    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1804    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1812    	svchost.exe                             	C:\Windows\System32\svchost.exe
+1996    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2020    	IntelCpHDCPSvc.exe                      	C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_18893dec345402c3\IntelCpHDCPSvc.exe
+2076    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2088    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2172    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2208    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2220    	IntelCpHeciSvc.exe                      	C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_18893dec345402c3\IntelCpHeciSvc.exe
+2292    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2320    	HipsDaemon.exe                          	D:\Program Files (x86)\Huorong\Sysdiag\bin\HipsDaemon.exe
+2360    	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+2364    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2376    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2492    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2504    	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+2548    	dasHost.exe                             	C:\Windows\System32\dasHost.exe
+2608    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2640    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2668    	WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe	C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+2780    	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+2808    	Haozip_2345Upgrade.exe                  	D:\2345Soft\HaoZip\Haozip_2345Upgrade.exe
+2868    	svchost.exe                             	C:\Windows\System32\svchost.exe
+2880    	GatewaySysTray.exe                      	D:\Inovance Control\AM600\GatewayPLC\GatewaySysTray.exe
+2988    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3084    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3164    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3208    	ServiceHub.SettingsHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
+3372    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3424    	TcSysUI.exe                             	C:\TwinCAT\3.1\System\TcSysUI.exe
+3440    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3512    	spacedeskService.exe                    	C:\Windows\System32\spacedeskService.exe
+3520    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3660    	acrotray.exe                            	D:\Adobe\Acrobat 8.0\Acrobat\acrotray.exe
+3676    	NVDisplay.Container.exe                 	C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_653fb989e351214a\Display.NvContainer\NVDisplay.Container.exe
+3808    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3816    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3824    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3832    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3876    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3884    	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+3892    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3924    	MemCompression                          	MemCompression
+3964    	NVDisplay.Container.exe                 	C:\Windows\System32\DriverStore\FileRepository\nvdm.inf_amd64_653fb989e351214a\Display.NvContainer\NVDisplay.Container.exe
+3972    	svchost.exe                             	C:\Windows\System32\svchost.exe
+3992    	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+4000    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4012    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4032    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4076    	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+4160    	python.exe                              	D:\python3.8\python.exe
+4252    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4264    	RtkAudioService64.exe                   	C:\Program Files\Realtek\Audio\HDA\RtkAudioService64.exe
+4320    	Serv_SpUsb.exe                          	C:\Windows\SysWOW64\Serv_SpUsb.exe
+4348    	ctfmon.exe                              	C:\Windows\System32\ctfmon.exe
+4360    	WmiPrvSE.exe                            	C:\Windows\System32\wbem\WmiPrvSE.exe
+4456    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4464    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4500    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4712    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4752    	wsctrlsvc.exe                           	D:\Program Files (x86)\Huorong\Sysdiag\bin\wsctrlsvc.exe
+4780    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4804    	RAVBg64.exe                             	C:\Program Files\Realtek\Audio\HDA\RAVBg64.exe
+4824    	svchost.exe                             	C:\Windows\System32\svchost.exe
+4888    	spoolsv.exe                             	C:\Windows\System32\spoolsv.exe
+5084    	ChsIME.exe                              	C:\Windows\System32\InputMethod\CHS\ChsIME.exe
+5140    	Microsoft.Photos.exe                    	C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2022.30070.26007.0_x64__8wekyb3d8bbwe\Microsoft.Photos.exe
+5148    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5152    	ServiceHub.SettingsHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.SettingsHost.exe
+5184    	mysqld.exe                              	D:\MariaDB 10.3\bin\mysqld.exe
+5224    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5332    	NetmanageServerService.exe              	C:\Program Files (x86)\Common Files\Schneider Electric Shared\NetmanageServer\4.1\NetmanageServerService.exe
+5376    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5384    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5428    	SystemSettings.exe                      	C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+5436    	conhost.exe                             	C:\Windows\System32\conhost.exe
+5468    	TcNcI.exe                               	C:\TwinCAT\3.1\Components\Mc\Nci\TcNcI.exe
+5512    	mDNSResponder.exe                       	C:\Program Files\Bonjour\mDNSResponder.exe
+5520    	CodeMeter.exe                           	C:\Program Files (x86)\CodeMeter\Runtime\bin\CodeMeter.exe
+5556    	CommonService.exe                       	C:\Program Files\EsafeNet\Cobra DocGuard Client\CommonService.exe
+5564    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5572    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5588    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5608    	Snipaste.exe                            	G:\桌面\right\HarmonyOS\day03\资料\Snipaste.exe
+5612    	GatewayService.exe                      	D:\Schneider Electric\SoMachine Software\Tools\Gateway\GatewayService.exe
+5620    	ServiceControl.exe                      	D:\Inovance Control\AM600\GatewayPLC\ServiceControl.exe
+5636    	FNPLicensingService.exe                 	C:\Program Files (x86)\Common Files\Macrovision Shared\FlexNet Publisher\FNPLicensingService.exe
+5644    	FNPLicensingService64.exe               	C:\Program Files\Common Files\Macrovision Shared\FlexNet Publisher\FNPLicensingService64.exe
+5652    	esif_uf.exe                             	C:\Windows\System32\DriverStore\FileRepository\dptf_cpu.inf_amd64_82b77f8c4618e2d0\esif_uf.exe
+5668    	diskSnService.exe                       	C:\Program Files (x86)\Common Files\GstarSoft\diskSnService.exe
+5684    	SchneiderElectric.GatewayServiceHosting.exe	D:\Schneider Electric\SoMachine Software\Tools\Gateway\SchneiderElectric.GatewayServiceHosting.exe
+5700    	EwServer.exe                            	D:\SOLIDWORKS Corp\SOLIDWORKS Electrical\server\EwServer.exe
+5720    	HiviewService.exe                       	C:\Program Files\Huawei\Hiview\HiviewService.exe
+5728    	CdgTwin32.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin32.exe
+5732    	LockApp.exe                             	C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+5744    	HistorySvr.exe                          	D:\kingview\HistorySvr.exe
+5764    	OneApp.IGCC.WinService.exe              	C:\Windows\System32\DriverStore\FileRepository\igcc_dch.inf_amd64_54b736e5be5b50b2\OneApp.IGCC.WinService.exe
+5780    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5804    	Kingdee.BOS.DeskClient.WinService.exe   	C:\Program Files (x86)\Kingdee\K3Cloud\DeskClient\WinService\Kingdee.BOS.DeskClient.WinService.exe
+5840    	LCD_Service.exe                         	C:\Program Files\Huawei\HwLcdEnhancement\LCD_Service.exe
+5848    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5856    	lkads.exe                               	C:\Windows\SysWOW64\lkads.exe
+5884    	LogCenterSer.exe                        	C:\Inovance Control\AutoShop\LogCenterSer.exe
+5900    	MateBookService.exe                     	C:\Program Files\Huawei\PCManager\MateBookService.exe
+5928    	svchost.exe                             	C:\Windows\System32\svchost.exe
+5948    	sqlservr.exe                            	C:\ProgramData\SOLIDWORKS Electrical\MSSQL12.TEW_SQLEXPRESS\MSSQL\Binn\sqlservr.exe
+6020    	NA_Service.exe                          	C:\Windows\System32\NA_Service.exe
+6108    	nisvcloc.exe                            	D:\Multisim\Shared\nisvcloc\nisvcloc.exe
+6116    	svchost.exe                             	C:\Windows\System32\svchost.exe
+6124    	niauth_daemon.exe                       	D:\Multisim\Shared\niauth\niauth_daemon.exe
+6152    	SutService.exe                          	C:\Program Files (x86)\Schneider Electric\Software Update\SutService.exe
+6160    	CdgTwin64.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin64.exe
+6168    	spnsrvnt.exe                            	C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel Protection Server\WinNT\spnsrvnt.exe
+6176    	sntlkeyssrvr.exe                        	C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel Keys Server\sntlkeyssrvr.exe
+6184    	sntlsrtsrvr.exe                         	C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel Security Runtime\sntlsrtsrvr.exe
+6192    	sqlwriter.exe                           	C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe
+6208    	RstMwService.exe                        	C:\Windows\System32\DriverStore\FileRepository\iaahcic.inf_amd64_c52b34f1b30918c5\RstMwService.exe
+6216    	Omron.Cxmw.Modules.AutoIP.AutoIPService.exe	C:\Windows\SysWOW64\Omron\autoip\Omron.Cxmw.Modules.AutoIP.AutoIPService.exe
+6224    	Omron.Cxmw.Modules.Ppp.PppService.exe   	C:\Windows\SysWOW64\Omron\PppService\Omron.Cxmw.Modules.Ppp.PppService.exe
+6232    	Omron.Cxmw.Modules.Serial.SerialService.exe	C:\Windows\SysWOW64\Omron\SerialService\Omron.Cxmw.Modules.Serial.SerialService.exe
+6240    	sqlbrowser.exe                          	C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe
+6304    	CdgTwin64.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin64.exe
+6312    	CdgTwin32.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\CdgTwin32.exe
+6436    	FileExtensionCop.exe                    	D:\Schneider Electric\SoMachine Software\Tools\Launcher\FileExtensionCop.exe
+6452    	ServiceHub.IdentityHost.exe             	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+6464    	SunloginClient.exe                      	D:\SunLogin\SunloginClient\SunloginClient.exe
+6540    	svchost.exe                             	C:\Windows\System32\svchost.exe
+6580    	lktsrv.exe                              	C:\Windows\SysWOW64\lktsrv.exe
+6588    	lkcitdl.exe                             	C:\Windows\SysWOW64\lkcitdl.exe
+6752    	ModbusDrvSys.exe                        	C:\Windows\System32\ModbusDrvSys.exe
+6784    	conhost.exe                             	C:\Windows\System32\conhost.exe
+6952    	nimdnsResponder.exe                     	D:\Multisim\Shared\mDNS Responder\nimdnsResponder.exe
+6980    	nidmsrv.exe                             	D:\Multisim\Shared\Security\nidmsrv.exe
+7028    	WmiPrvSE.exe                            	C:\Windows\System32\wbem\WmiPrvSE.exe
+7084    	WmiPrvSE.exe                            	C:\Windows\SysWOW64\wbem\WmiPrvSE.exe
+7096    	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+7180    	devenv.exe                              	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+7340    	ModbusDrv.exe                           	C:\Windows\System32\ModbusDrv.exe
+7660    	Microsoft.ServiceHub.Controller.exe     	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+8008    	spacedeskServiceTray.exe                	C:\Windows\System32\spacedeskServiceTray.exe
+8228    	SystemWebServer.exe                     	D:\Multisim\Shared\NI WebServer\SystemWebServer.exe
+8304    	svchost.exe                             	C:\Windows\System32\svchost.exe
+8928    	MBAMessageCenter.exe                    	C:\Program Files\Huawei\PCManager\MBAMessageCenter.exe
+8936    	TCATSysSrv.exe                          	C:\TwinCAT\3.1\System\TCATSysSrv.exe
+8964    	TabTip.exe                              	C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+9076    	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+9420    	PD-NetmanageServer.exe                  	C:\Program Files (x86)\Common Files\Schneider Electric Shared\NetmanageServer\4.3\PD-NetmanageServer.exe
+9516    	NIWebServiceContainer.exe               	D:\Multisim\Shared\NI WebServer\NIWebServiceContainer.exe
+9568    	ApplicationWebServer.exe                	D:\Multisim\Shared\NI WebServer\ApplicationWebServer.exe
+9684    	svchost.exe                             	C:\Windows\System32\svchost.exe
+9700    	usysdiag.exe                            	D:\Program Files (x86)\Huorong\Sysdiag\bin\usysdiag.exe
+9808    	svchost.exe                             	C:\Windows\System32\svchost.exe
+9888    	kms-renewal.exe                         	C:\Windows\System32\kms-renewal.exe
+9896    	vmware-usbarbitrator64.exe              	C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+10028   	UsbConnect.exe                          	C:\Windows\System32\UsbConnect.exe
+10032   	vmnat.exe                               	C:\Windows\SysWOW64\vmnat.exe
+10044   	watchctrl.exe                           	C:\Program Files\EsafeNet\Cobra DocGuard Client\watchctrl.exe
+10064   	vmware-authd.exe                        	D:\VMware\vmware-authd.exe
+10084   	vmnetdhcp.exe                           	C:\Windows\SysWOW64\vmnetdhcp.exe
+10124   	SunloginClient.exe                      	D:\SunLogin\SunloginClient\SunloginClient.exe
+10132   	NIWebServiceContainer.exe               	D:\Multisim\Shared\NI WebServer\NIWebServiceContainer.exe
+10164   	SWVisualize.Queue.Server.exe            	D:\SOLIDWORKS Corp\SOLIDWORKS Visualize\SWVisualize.Queue.Server.exe
+10196   	TcEventLogger.exe                       	C:\TwinCAT\3.1\Components\TcEventLogger\TcEventLogger.exe
+10212   	SWVisualize.BoostService.exe            	D:\SOLIDWORKS Corp\SOLIDWORKS Visualize Boost\SWVisualize.BoostService.exe
+10228   	unsecapp.exe                            	C:\Windows\System32\wbem\unsecapp.exe
+10264   	WifiAutoInstall.exe                     	C:\Program Files (x86)\FAST\FW150US（免驱版）2.0\DriverFiles\WifiAutoInstall.exe
+10272   	XBTZG935svr.exe                         	C:\Program Files (x86)\Schneider Electric\Drivers\XBTZG935\XBTZG935svr.exe
+10280   	svchost.exe                             	C:\Windows\System32\svchost.exe
+10296   	svchost.exe                             	C:\Windows\SysWOW64\svchost.exe
+10304   	sihost.exe                              	C:\Windows\System32\sihost.exe
+10340   	svchost.exe                             	C:\Windows\System32\svchost.exe
+10500   	ServiceHub.RoslynCodeAnalysisService.exe	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+10564   	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+10596   	UsbConsole.exe                          	C:\Windows\System32\UsbConsole.exe
+10688   	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+10776   	conhost.exe                             	C:\Windows\System32\conhost.exe
+10892   	vsls-agent.exe                          	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\LiveShare\Agent\vsls-agent.exe
+10968   	svchost.exe                             	C:\Windows\System32\svchost.exe
+11504   	winrdlv3.exe                            	C:\Windows\System32\winrdlv3.exe
+11628   	ServiceHub.SettingsHost.exe             	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe
+11744   	taskhostw.exe                           	C:\Windows\System32\taskhostw.exe
+11808   	CXOneInstChecker.exe                    	C:\Program Files (x86)\OMRON\CXOneInstChecker.exe
+11840   	PopBlock.exe                            	D:\Program Files (x86)\Huorong\Sysdiag\bin\PopBlock.exe
+11876   	ServiceHub.RoslynCodeAnalysisService.exe	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.AnyCPU\ServiceHub.RoslynCodeAnalysisService.exe
+11908   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+11956   	svchost.exe                             	C:\Windows\System32\svchost.exe
+11968   	explorer.exe                            	C:\Windows\explorer.exe
+12004   	vmware-hostd.exe                        	D:\VMware\vmware-hostd.exe
+12096   	svchost.exe                             	C:\Windows\System32\svchost.exe
+12128   	svchost.exe                             	C:\Windows\System32\svchost.exe
+12132   	svchost.exe                             	C:\Windows\System32\svchost.exe
+12276   	TC3ScopeServer.exe                      	C:\TwinCAT\Functions\TF3300-Scope-Server\TC3ScopeServer.exe
+12356   	ShellExperienceHost.exe                 	C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+12564   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+12696   	PerfWatson2.exe                         	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe
+12752   	ServiceHub.Host.CLR.x64.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
+12804   	conhost.exe                             	C:\Windows\System32\conhost.exe
+12864   	python.exe                              	D:\python3.8\python.exe
+12872   	SgrmBroker.exe                          	C:\Windows\System32\SgrmBroker.exe
+12928   	winrdlv3.exe                            	C:\Windows\System32\winrdlv3.exe
+12976   	devenv.exe                              	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\devenv.exe
+13016   	SettingSyncHost.exe                     	C:\Windows\System32\SettingSyncHost.exe
+13064   	ServiceHub.IndexingService.exe          	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.IndexingService.exe
+13068   	vmware-tray.exe                         	D:\VMware\vmware-tray.exe
+13432   	svchost.exe                             	C:\Windows\System32\svchost.exe
+13536   	DFSSearchService.exe                    	C:\Program Files\Huawei\PCManager\DFSSearchService.exe
+13572   	ServiceHub.IdentityHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
+13644   	StartMenuExperienceHost.exe             	C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+13940   	Microsoft.ServiceHub.Controller.exe     	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+13984   	winrdlv3.exe                            	C:\Windows\SysWOW64\winrdlv3.exe
+14272   	nierserver.exe                          	D:\Multisim\Shared\NI Error Reporting\nierserver.exe
+14504   	SearchIndexer.exe                       	C:\Windows\System32\SearchIndexer.exe
+14668   	WXWork.exe                              	D:\Program Files (x86)\WXWork\WXWork.exe
+14828   	SecurityHealthHost.exe                  	C:\Windows\System32\SecurityHealthHost.exe
+15008   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+15016   	CODESYSControlSysTray.exe               	D:\Inovance Control\AM600\GatewayPLC\CODESYSControlSysTray.exe
+15280   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+15420   	SchneiderElectric.SoMachineBasic.GatewayWindowsService.exe	C:\Program Files (x86)\Schneider Electric\SoMachine Basic\SchneiderElectric.SoMachineBasic.GatewayWindowsService.exe
+15464   	SearchUI.exe                            	C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+15488   	ServiceHub.Host.netfx.x86.exe           	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+15960   	PerfWatson2.exe                         	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\PerfWatson2.exe
+16092   	svchost.exe                             	C:\Windows\System32\svchost.exe
+16124   	vsls-agent.exe                          	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\LiveShare\Agent\vsls-agent.exe
+16196   	ServiceHub.ThreadedWaitDialog.exe       	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.ThreadedWaitDialog.exe
+16220   	Microsoft.ServiceHub.Controller.exe     	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+16288   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+16392   	ServiceHub.VSDetouredHost.exe           	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe
+16472   	CDGRegedit.exe                          	C:\Program Files\EsafeNet\Cobra DocGuard Client\CDGRegedit.exe
+16520   	Everything.exe                          	D:\Everything\Everything.exe
+16556   	conhost.exe                             	C:\Windows\System32\conhost.exe
+16672   	IGCCTray.exe                            	C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3408.0_x64__8j3eq9eme6ctt\GCP.ML.BackgroundSysTray\IGCCTray.exe
+16696   	Everything.exe                          	D:\Everything\Everything.exe
+16800   	GoogleCrashHandler.exe                  	C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler.exe
+16956   	CodeMeterCC.exe                         	C:\Program Files (x86)\CodeMeter\Runtime\bin\CodeMeterCC.exe
+17096   	HipsTray.exe                            	D:\Program Files (x86)\Huorong\Sysdiag\bin\HipsTray.exe
+17128   	TaskbarTools.exe                        	G:\透明任务栏\TaskbarTools\TaskbarTools.exe
+17172   	CastSrv.exe                             	C:\Windows\System32\CastSrv.exe
+17180   	conhost.exe                             	C:\Windows\System32\conhost.exe
+17268   	SunloginClient.exe                      	D:\SunLogin\SunloginClient\SunloginClient.exe
+17276   	ServiceHub.IdentityHost.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.IdentityHost.exe
+17380   	GoogleCrashHandler64.exe                	C:\Program Files (x86)\Google\Update\1.3.36.152\GoogleCrashHandler64.exe
+17440   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+17444   	Calculator.exe                          	C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe
+17508   	svchost.exe                             	C:\Windows\System32\svchost.exe
+17652   	ApplicationFrameHost.exe                	C:\Windows\System32\ApplicationFrameHost.exe
+17736   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+17748   	dllhost.exe                             	C:\Windows\System32\dllhost.exe
+17788   	ServiceHub.VSDetouredHost.exe           	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.VSDetouredHost.exe
+17800   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+17908   	svchost.exe                             	C:\Windows\System32\svchost.exe
+17940   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+18044   	SecurityHealthService.exe               	C:\Windows\System32\SecurityHealthService.exe
+18084   	IGCC.exe                                	C:\Program Files\WindowsApps\AppUp.IntelGraphicsExperience_1.100.3408.0_x64__8j3eq9eme6ctt\IGCC.exe
+18264   	svchost.exe                             	C:\Windows\System32\svchost.exe
+18280   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+18484   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+18556   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+18600   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+18740   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+18832   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+18916   	ServiceHub.Host.CLR.x86.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x86\ServiceHub.Host.CLR.x86.exe
+19296   	scclient.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\scclient.exe
+19432   	ServiceHub.Host.CLR.x64.exe             	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.CLR.x64\ServiceHub.Host.CLR.x64.exe
+19648   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+19724   	WXDrive.exe                             	D:\Program Files (x86)\WXWork\WXDrive\WXDrive.exe
+19968   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+20028   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+20292   	WXWorkWeb.exe                           	D:\Program Files (x86)\WXWork\4.0.16.6007\WXWorkWeb.exe
+20412   	DocWaterMark.exe                        	C:\Windows\SysWOW64\Ocular3Path\SCClient\DocWaterMark.exe
+20432   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+20464   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+21240   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+21440   	ServiceHub.IntellicodeModelService.exe  	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+21872   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+21912   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+22076   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+22340   	有道云笔记.exe                               	D:\YouDaoYun\ynote-desktop\有道云笔记.exe
+22620   	pycharm64.exe                           	D:\JetBrains\PyCharm Community Edition 2021.2\bin\pycharm64.exe
+22904   	svchost.exe                             	C:\Windows\System32\svchost.exe
+23064   	Taskmgr.exe                             	C:\Windows\System32\Taskmgr.exe
+23336   	devenv.exe                              	D:\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+23516   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+23540   	svchost.exe                             	C:\Windows\System32\svchost.exe
+23572   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+23808   	svchost.exe                             	C:\Windows\System32\svchost.exe
+24316   	svchost.exe                             	C:\Windows\System32\svchost.exe
+24564   	ServiceHub.Host.dotnet.x64.exe          	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.Host.dotnet.x64.exe
+24872   	svchost.exe                             	C:\Windows\System32\svchost.exe
+25168   	PerfWatson2.exe                         	D:\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+25372   	svchost.exe                             	C:\Windows\System32\svchost.exe
+25468   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+25544   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+25624   	ServiceHub.VSDetouredHost.exe           	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe
+25844   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+26280   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+26616   	ServiceHub.ThreadedWaitDialog.exe       	D:\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe
+27180   	RuntimeBroker.exe                       	C:\Windows\System32\RuntimeBroker.exe
+28252   	fsnotifier.exe                          	D:\JetBrains\PyCharm Community Edition 2021.2\bin\fsnotifier.exe
+28260   	conhost.exe                             	C:\Windows\System32\conhost.exe
+28812   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+28972   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+29056   	MessageCenterUI.exe                     	C:\Program Files\Huawei\PCManager\MessageCenterUI.exe
+29108   	chrome.exe                              	C:\Program Files\Google\Chrome\Application\chrome.exe
+29396   	owebuinw.exe                            	C:\Windows\SysWOW64\Ocular3Path\SCClient\bin\owebuinw.exe
+
+2023-01-11 14:54:12
+------------------------------------------------------------------------------------------------------------------------------
+

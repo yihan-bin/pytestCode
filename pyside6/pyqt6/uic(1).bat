@@ -1,0 +1,1 @@
+pyuic6 -o PCMonitor2.py PCMonitor2.ui

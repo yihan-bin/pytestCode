@@ -1,0 +1,11 @@
+访问：fun1	时间：Tue May 25 15:12:45 2021访问：fun2	时间：Tue May 25 15:12:45 2021访问：fun1	时间：Tue May 25 15:16:10 2021
+访问：fun2	时间：Tue May 25 15:16:10 2021
+访问：funcin	时间：Tue May 25 15:16:10 2021
+访问：fun1	时间：Tue May 25 15:16:53 2021
+访问：fun2	时间：Tue May 25 15:16:53 2021
+访问：funcin	时间：Tue May 25 15:16:53 2021
+访问：funcin	时间：Tue May 25 15:16:53 2021
+访问：fun1	时间：Tue May 25 15:20:51 2021
+访问：fun2	时间：Tue May 25 15:20:51 2021
+访问：funcin	时间：Tue May 25 15:20:51 2021
+访问：funcin	时间：Tue May 25 15:20:51 2021

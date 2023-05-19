@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="image">
+    <file>OI.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>OIP-C (1).jpg</file>
+    <file>OIP-C (2).jpg</file>
+    <file>OIP-C (3).jpg</file>
+    <file>OIP-C (4).jpg</file>
+    <file>OIP-C (5).jpg</file>
+    <file>OIP-C (6).jpg</file>
+    <file>OIP-C (7).jpg</file>
+  </qresource>
+</RCC>

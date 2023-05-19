@@ -1,0 +1,1 @@
+python -m manim first.py BraceAnnotation -pl
