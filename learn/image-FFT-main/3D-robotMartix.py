@@ -3,8 +3,16 @@ import numpy as np
 #导入三维工具包mplot3d
 from mpl_toolkits import mplot3d
 
-def pf(x):
-    return pow(x,2)
+def rototeZ(x):
+    return  [[np.cos(x),-np.sin(x),0],
+         [np.sin(x),np.cos(x),0],
+         [0,0,1]]
+def CalRotote(x,y):
+    x1=np.arctan2(y[1]/y[0])-np.arctan2(x[1]/x[0])
+    return x1
+
+A=rototeZ(np.pi/2)
+B=CalRotote([0,1,0],[1,0,0])
 x1=[0,3]
 y1=[0,4]
 i=0.1
