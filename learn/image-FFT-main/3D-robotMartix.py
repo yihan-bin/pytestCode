@@ -1,17 +1,20 @@
+#encoding='utf-8'
 import matplotlib.pyplot as plt
 import numpy as np
 #导入三维工具包mplot3d
 from mpl_toolkits import mplot3d
 
-def rototeZ(x):
-    return  [[np.cos(x),-np.sin(x),0],
+def rototeZ(x,goal):
+    rotate=np.array([[np.cos(x),-np.sin(x),0],
          [np.sin(x),np.cos(x),0],
-         [0,0,1]]
+         [0,0,1]])
+    #goal=np.array(goal)
+    return  np.dot(rotate,goal)
 def CalRotote(x,y):
-    x1=np.arctan2(y[1]/y[0])-np.arctan2(x[1]/x[0])
+    x1=np.arctan2(y[1],y[0])-np.arctan2(x[1],x[0])
     return x1
 
-A=rototeZ(np.pi/2)
+A=rototeZ(np.pi/2,[0,1,0])
 B=CalRotote([0,1,0],[1,0,0])
 x1=[0,3]
 y1=[0,4]
@@ -20,12 +23,14 @@ x2=np.zeros(len(x1))
 y2=np.zeros(len(x1))
 
 y=[]
-spoint=[0,2,2]
-gpoint=[0,4,5]
-thelt=np.arctan2((gpoint[2]-spoint[2]),(gpoint[1]-spoint[1]))
+spoint=np.array([0,2,2])
+gpoint=np.array([0,4,5])
+theltX=CalRotote(spoint,gpoint)
+sspoint=rototeZ(theltX,spoint)
+thelt=np.arctan2((gpoint[2]-sspoint[2]),(gpoint[1]-sspoint[1]))
 locus=[]
 angle=[]
-l=np.sqrt((gpoint[2]-spoint[2])**2+(gpoint[1]-spoint[1])**2)
+l=np.sqrt((gpoint[2]-sspoint[2])**2+(gpoint[1]-sspoint[1])**2)
 l1=5
 l2=4
 k=100
